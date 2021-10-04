@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = emily.martinek12@gmail.com
+	name = Emily Martinek
